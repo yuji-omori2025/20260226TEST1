@@ -103,9 +103,9 @@
             <p> 競泳選手に必要な要素を数値化して、選手自身の特性、速くなる、綺麗に、上手くなるポイントを</p>
             <p> <strong><mark>把握・見える化</mark></strong>することで、<strong><mark>今後の練習や、モチベーションに反映</mark></strong>できます</p>
 　　　　　　<p>最新の主な活動は、インスタグラムにて閲覧が可能です</p>
-　　　　　　<figure><img src="swim.exp_qr.png" width="400" alt="スイムイクスピリエンスインスタQRコード"></figure>
+　　　　　　<figure><img src="swim.exp_qr.png" width="400" alt="スイムイクスピリエンスインスタQRコード"></figure></h4>
           <div class="text-parts">
-        </h4>
+        
             <div class="button_solid002">
               <a href="#" class="button"> 受診したい選手はクリック
               </a>
@@ -137,9 +137,9 @@
             <p>2026年から発足を開始します。</p>
             <p>ご興味のある選手、チーム代表の方は、ぜひお問い合わせください</p>
             <p>宇都宮スイムマスターズ連合の活動情報は、インスタグラムで閲覧可能です</p>
-　　　　　　<figure><img src="utsu.swim.mas.fed_qr.png" width="400" alt="USMFインスタQRコード"></figure>
+　　　　　　<figure><img src="utsu.swim.mas.fed_qr.png" width="400" alt="USMFインスタQRコード"></figure></h4>
           <div class="text-parts">
-         </h4>
+         
             <div class="button_solid002">
               <a href="#" class="button">
                 加入、ご相談したい選手、チーム代表はクリック
@@ -158,10 +158,7 @@
             <p>もっと詳しく知りたい方はこちら url:<a href="http://experience52.web.fc2.com/" target="_blank">http://experience52.web.fc2.com/</a></p>
             <p>ヘアクリエイション・エクスペリエンスのインスタグラムはこちら</p>
 　　　　　　<figure><img src="hair_creation_experience_qr.png" width="400" alt="ヘアクリエイションエクスペリエンスインスタQRコード"></figure>
-          <div class="text-parts">
-        </h4>
-        </div>
-        </div>
+              </h4>
 
         <div class="list-parts">
           <h3>スイム・イクスピリエンスちゃんとは？</h3>
@@ -178,7 +175,6 @@
             <p>スイムイクスピリエンスちゃんの座右の銘は、<mark><strong>「嘘をつかない。人に迷惑をかけない。お友達には思いやりを持って接する」。</strong></mark></p>
           </h4>
 　　　　　<figure><img src="swim exp swimming color.png" width="400" alt="スイムイクスピリエンスちゃんが泳いでる画像"></figure>
-          <div class="text-parts">
         </div>
         </div>
 
@@ -196,9 +192,7 @@
             <p>バタジイの口グセは、<mark><strong>「練習する以外の方法で、速くなれる選手いる？」「テクニック論なんて、速い選手でてきたら無意味」</strong></mark>（以上は、民明書房刊より）</p>
             <p>バタフライジジイの出現・目撃・出没情報はインスタグラムで閲覧可能です</p>
              <figure><img src="butterflymonster__qr.png" width="400" alt="バタフライジジイインスタQRコード画像"></figure>
-          <div class="text-parts">
-         </h4>
-          </div>
+              </h4>
         </div>
 
         <h3>お問い合わせ先</h3>
@@ -212,8 +206,6 @@
          <p><textarea name="message" cols="50" rows="5" required="required"></textarea></p>
          <p><input type="submit" value="送信する"></p> </form>
         </h4>
-      </div></section>
-  </div></main>
 
 <footer>
   <div class="footer-main"> <a href="index.html" class="team-logo"> <img src="team logo.png" alt="swim experience のロゴ">
