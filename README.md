@@ -64,7 +64,7 @@
 
         <div class="list-parts">
 　　　　　<h3><strong>活動のきっかけ</strong></h3>
-          <figure><img src="before_start.png" width="400" height="300" alt="スタート前の準備画像"></figure>
+          <figure><img src="before_start.png" width="400" alt="スタート前の準備画像"></figure>
           <div class="text-parts">
           <h4><p>●「競泳を通じた人格形成」<br>
             ●「戦略的な考えを持って、練習から大会のレースまで、選手自身が構築できる」<br>
@@ -79,7 +79,7 @@
 
         <div class="list-parts">
           <h3><strong>こんな悩みを持つ競泳選手は、ぜひご相談ください</strong></h3>
-          <figure><img src="start1.png" width="400" height="300" alt="活動の出発点の画像"></figure>
+          <figure><img src="start1.png" width="400" alt="活動の出発点の画像"></figure>
           <div class="text-parts">
           <h4>  
             <p>・レースでは、同じ合図で一斉にスタートしているのに、なんであんなに<mark>差が付いてしまうのか？</mark></p>
@@ -103,7 +103,7 @@
             <p> 競泳選手に必要な要素を数値化して、選手自身の特性、速くなる、綺麗に、上手くなるポイントを</p>
             <p> <strong><mark>把握・見える化</mark></strong>することで、<strong><mark>今後の練習や、モチベーションに反映</mark></strong>できます</p>
 　　　　　　<p>最新の主な活動は、インスタグラムにて閲覧が可能です</p>
-　　　　　　<figure><img src="swim.exp_qr.png" width="400" height="300" alt="スイムイクスピリエンスインスタQRコード"></figure>
+　　　　　　<figure><img src="swim.exp_qr.png" width="400" alt="スイムイクスピリエンスインスタQRコード"></figure>
           <div class="text-parts">
         </h4>
             <div class="button_solid002">
@@ -128,7 +128,7 @@
 
 　　　　<div class="list-parts"> <div class="text-parts">
 　　　　　<h3> <p>宇都宮スイムマスターズ連合（USMF）について</p></h3>
-          <figure><img src="USMF_HP.jpg" width="400" height="300" alt="USMF HP画像"></figure>
+          <figure><img src="USMF_HP.jpg" width="400" alt="USMF HP画像"></figure>
           <div class="text-parts">
           <h4>
             <p>マスターズ登録をしたチーム、個人登録、まだ登録していないけど、これからチャレンジしようとしている選手で、</p>
@@ -137,7 +137,7 @@
             <p>2026年から発足を開始します。</p>
             <p>ご興味のある選手、チーム代表の方は、ぜひお問い合わせください</p>
             <p>宇都宮スイムマスターズ連合の活動情報は、インスタグラムで閲覧可能です</p>
-　　　　　　<figure><img src="utsu.swim.mas.fed_qr.png" width="400" height="300" alt="USMFインスタQRコード"></figure>
+　　　　　　<figure><img src="utsu.swim.mas.fed_qr.png" width="400" alt="USMFインスタQRコード"></figure>
           <div class="text-parts">
          </h4>
             <div class="button_solid002">
@@ -150,14 +150,14 @@
 
         <div class="list-parts">
         <h3>エクスペリエンスちゃんとは？</h3>
-          <figure><img src="character.JPG" width="400" height="300" alt="エクスペリエンスちゃん画像"></figure>
+          <figure><img src="character.JPG" width="400" alt="エクスペリエンスちゃん画像"></figure>
           <div class="text-parts">
         <h4>  
             <p>宇都宮市宝木町にある美容室 ヘアクリエイション エクスペリエンスのキャラクター。</p>
             <p>スイム・イクスピリエンスちゃんとは、生き別れた弟。そら豆の形をした胎児です。</p>
             <p>もっと詳しく知りたい方はこちら url:<a href="http://experience52.web.fc2.com/" target="_blank">http://experience52.web.fc2.com/</a></p>
             <p>ヘアクリエイション・エクスペリエンスのインスタグラムはこちら</p>
-　　　　　　<figure><img src="hair_creation_experience_qr.png" width="400" height="300" alt="ヘアクリエイションエクスペリエンスインスタQRコード"></figure>
+　　　　　　<figure><img src="hair_creation_experience_qr.png" width="400" alt="ヘアクリエイションエクスペリエンスインスタQRコード"></figure>
           <div class="text-parts">
         </h4>
         </div>
@@ -165,7 +165,7 @@
 
         <div class="list-parts">
           <h3>スイム・イクスピリエンスちゃんとは？</h3>
-          <figure><img src="swim expちゃん.jpg" width="400" height="300" alt="スイムイクスピリエンスちゃん画像"></figure>
+          <figure><img src="swim expちゃん.jpg" width="400" alt="スイムイクスピリエンスちゃん画像"></figure>
           <div class="text-parts">
           <h4> 
             <p>ヘアエクスペリエンスちゃんとは、生き別れた兄弟でお兄ちゃんだったことが最近判明した。</p>
@@ -177,14 +177,14 @@
             <p>また、バタジイに導かれた影響なのかは不明だが、きちんと着用して泳いでも、泳ぎ終わるとゴーグルが吊り上がるようになった。</p>
             <p>スイムイクスピリエンスちゃんの座右の銘は、<mark><strong>「嘘をつかない。人に迷惑をかけない。お友達には思いやりを持って接する」。</strong></mark></p>
           </h4>
-　　　　　<figure><img src="swim exp swimming color.png" width="400" height="300" alt="スイムイクスピリエンスちゃんが泳いでる画像"></figure>
+　　　　　<figure><img src="swim exp swimming color.png" width="400" alt="スイムイクスピリエンスちゃんが泳いでる画像"></figure>
           <div class="text-parts">
         </div>
         </div>
 
         <div class="list-parts">
           <h3><strong>栃木のプールに棲む妖怪 バタフライジジイ（通称：バタジイ）</strong></h3>
-          <figure><img src="バタフライジジイ手配書.png" width="400" height="300"  alt="バタフライジジイの手配書"></figure>
+          <figure><img src="バタフライジジイ手配書.png" width="400" alt="バタフライジジイの手配書"></figure>
           <div class="text-parts">
           <h4>  
             <p>言い伝えによると、栃木県競泳初の全国大会優勝者となったことで、腰に故障を抱えながら、今もなお、練習を続けレースにも出場しているという。
@@ -195,7 +195,7 @@
             プール以外で遭遇できるのはレアなため、遭遇した人間には幸せが訪れるという幸運の妖怪でもある。</p><br>
             <p>バタジイの口グセは、<mark><strong>「練習する以外の方法で、速くなれる選手いる？」「テクニック論なんて、速い選手でてきたら無意味」</strong></mark>（以上は、民明書房刊より）</p>
             <p>バタフライジジイの出現・目撃・出没情報はインスタグラムで閲覧可能です</p>
-             <figure><img src="butterflymonster__qr.png" width="400" height="300" alt="バタフライジジイインスタQRコード画像"></figure>
+             <figure><img src="butterflymonster__qr.png" width="400" alt="バタフライジジイインスタQRコード画像"></figure>
           <div class="text-parts">
          </h4>
           </div>
@@ -253,206 +253,3 @@
 
 </body>
 </html>
-<style type="text/css">
-
-/* ヘッダー*/
-.header{
-	width:960px;
-	height:170px;
-	margin:0 auto;
-	display:flex;
-	justify-content:space-between;
-.logo{
-	display:block;
-	img{
-	display:block;
-	height:60px;
-	}
-	}
-
-
-/* ヒーロー*/
-.hero{
-	color: #fff;
-        text-align: center;
-	height: 640px;
-	background-image: url(../ing/hero-background.jpg);
-	back-ground-size: cover;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	position: relative;
-	h2 {
-	 font-size: 48px;
-	 font-weight: 700;
-	}
-	p {
-	 font-size: 20px;
-	 font-weight: 400;
-	 margin-top: 20px;
-	}
-	a{
-	 display: grid;
-	 place-items: center;
-	 width: 60px; height: 60px;
-	background-color: #6a9631;
-	border-radius: 50%;
-	box-shadow: 0px 12px 20px rgb(0 0 0 / 0.1);
-	position: absolute;
-	left: 50%;
-	bottom: 0;
-	translate: -50% 50%;
-	img{
-	 width: 24px;height: 24px;
-	}
-	}
-	}
-
-
-/*トップ*/
-
-.top{
-	width:100%;
-	height:350px;
-	display:flex;
-	justify-content:center;
-	align-items: center;
-        background-image:(down.png);
-	background-repeat:no-repeat;
-	background-size: cover;
-	background-position:center center;
-	background-attachment:fixed;
-	color: #fff;
-	font-weight: 70px;
-	font-size: 48px;
-	line-heiwgt:1.2;
-	text-align: center;
-	margin:100px 0 40px 0;
-	flex-direction: column;
-	position:relative;
-	h2{
-	font-size:48px;
-	font-weight:700;
-      }
- }
-a{
-  display: grid;
-  place-items: center;
-  width: 60px; height: 60px;
-  background-color: #6A9631;
-  border-radius: 50%
-  box-shadow: 0px 12px 20px rgb(0 0 0 / 0.1);
-  position:absolute;
-  left: 50%;
-  bottom: 0;
-  translate: -50% 50%;
-img{
-  width: 24px;height: 24px;
-   }
- }
-}
-
-
-/* ボディ*/
-.body{
-
-
-/* 点滅 */
-.blinking{
--webkit-animation:blink 1.5s ease-in-out infinite alternate;
--moz-animation:blink 1.5s ease-in-out infinite alternate;
-animation:blink 1.5s ease-in-out infinite alternate;
-          }
-@-webkit-keyframes blink{
-                        0% {opacity:0;}
-                        100% {opacity:1;}
-                        }
-@-moz-keyframes blink{
-                     0% {opacity:0;}
-                     100% {opacity:1;}
-                     }
-@keyframes blink{
-                 0% {opacity:0;}
-                 100% {opacity:1;}
-                }
-
-#wrap {background:none} /*PC用の背景はオフ*/
-
-/*背景を表示させる部分*/
-body::before {
-             content:"";
-             display:block;
-             position:fixed;
-             top:0;
-             left:0;
-             z-index:-1;
-             width:100%;
-             height:100vh;
-background:url(haikei.JPG) center/cover no-repeat;
-              -webkit-background-size:cover;/*Android4*/
-              }
-
-a.p:hover {
-          position: relative;
-          text-decoration: none;
-          }
-a.p span {
-          display: none;
-          position: relative;
-          top: -0.5em;
-          left: 2em;
-          }
-a.p:hover span {
-               border: none;
-               display: block;
-               width: 800px;
-               }
-
-
-@media screen and (min-width: 540px),
-screen and (orientation: landscape) {
-                                    p.note { display: none; }
-                                    }
-
-/*ナビ*/
-.nav{
-     color: #fff;
-     text-align: center;
-     height: 200px;
-     background-image: url(../img/hero-background.jpg);
-     background-size: cover;
-     display: flex;
-     flex-direction: column;
-     align-items: center;
-     justify-content: center;
-     position: relative;
-h2{
-  font-size: 48px;
-  font-weight: 700;
-  }
-p{
-  font-size: 20px;
-  font-weight: 400;
-  margin-top: 20px;
- }
-a{
-  display: grid;
-  place-items: center;
-  width: 60px; height: 60px;
-  background-color: #6A9631;
-  border-radius: 50%
-  box-shadow: 0px 12px 20px rgb(0 0 0 / 0.1);
-  position:absolute;
-  left: 50%;
-  bottom: 0;
-  translate: -50% 50%;
-img{
-  width: 24px;height: 24px;
-   }
- }
-}
-
-
-</style>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
